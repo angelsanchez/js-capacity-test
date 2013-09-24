@@ -116,7 +116,7 @@ iris.resource(function (self) {
 	};
 
 	self.importantCount = function () {
-		console.log('TODO Important of remaining items counter')
+		console.log('TODO Important counter')
 		return 0;
 	};
 
