@@ -4,7 +4,7 @@ Application designed to prove a javascript developer capacities. We are using an
 
 ## Instructions
 
-- Install [NodeJS](http://nodejs.org/)
+- Install [NodeJS](http://nodejs.org/). (Note: Windows requires a restart to detect the new PATH or you can run the files from the installation folder)
 - Clone this repository in your local
 - Install NodeJS dependencies: `npm install`
 - Launch the server: `node app.js`
@@ -31,6 +31,7 @@ There are three new funcionalities to develop:
  - Only your code is important, the design won't be valued.
  - Comments and maintainability of the code will be appreciated.
  - In order to complete the unfinished parts, you can modify any file, write new functions, create new files, etc...
+ - You can submit the test solved without completing all the parts.
 
 
 Thank you very much,
