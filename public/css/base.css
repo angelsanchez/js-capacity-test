@@ -416,3 +416,14 @@ label[for='toggle-all'] {
 .hidden{
 	display:none;
 }
+
+.filterPanel {
+	border-top: 1px dotted #ccc;
+	padding: 10px 50px;
+	background-color: #f8f8f8;
+	box-shadow: 0px 8px 11px #dedede;
+}
+
+.filterPanel input[type=text] {
+	border: 1px solid #666;line-height: 20px;
+}

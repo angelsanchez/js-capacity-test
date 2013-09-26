@@ -3,11 +3,13 @@
   <section id="todoapp">
     <header id="header">
       <h1>todos</h1>
-      <div style='padding: 10px 50px;background-color: #E2E2E2;'>
-        Filter<br><input data-id='text-filter' type='text' style='border: 1px solid #666;line-height: 20px;' >
-        <div style='float:right;'><input type='checkbox' data-id='show-only-important'> Show only important</div>
-      </div>
       <input id="new-todo" data-id="new-todo" placeholder="What needs to be done?" autofocus>
+      <div data-jq-toggle="hasTodos" class='filterPanel'>
+        Search: <input data-id='text-filter' type='text' >
+        <div style='float:right;'>
+          <input type='checkbox' data-id='show-only-important'> Show only important
+        </div>
+      </div>
     </header>
     
     <section id="main">
