@@ -1,6 +1,6 @@
 # Javascript Capacity Test
 
-Application designed to prove a javascript developer capacities. This application is part of the [Iris](http://thegameofcode.github.io/iris/) [examples](http://thegameofcode.github.io/iris/examples/todo-list/index.html). We have added new functionality to be implemented.
+Application designed to prove a javascript developer capacities. We are using an application that is part of the [Iris](http://thegameofcode.github.io/iris/) [examples](http://thegameofcode.github.io/iris/examples/todo-list/index.html) and we have added new functionality to be implemented.
 
 ## Instructions
 
@@ -14,22 +14,24 @@ Application designed to prove a javascript developer capacities. This applicatio
 
 ## Unfinished parts
 
-There are three files with unfinished parts:
+There are three new funcionalities to develop:
 
 `public/app/todo.js`
- - lin. 59: If the todo text contains the word "important", add the class "important". (1 point)
+ - lin. 59: If the item text contains the word "important", add the class "important". __(Easy: 1 point)__
 
 `public/app/welcome.js`
- - lin. 22: Filter by text. (2 point)
- - lin. 28: Show only todos with text "important". The URL should change like filter does in `self.awake` function. (4 point)
+ - lin. 22: Filter items by text typed in the search text input. __(Medium: 2 point)__
+ - lin. 28: Show only todos with text "important". The Hash-URL should change like filter does in `self.awake` function. __(Hard: 4 point)__
 
 `public/app/resource.js`
- - lin. 119: Important counter (3 point)
+ - lin. 119: Important counter. __(Medium: 3 point)__
 
 ## Notes
 
  - Only your code is important, the design won't be valued.
  - Comments and maintainability of the code will be appreciated.
+ - In order to complete the unfinished parts, you can modify any file, write new functions, create new files, etc...
+
 
 Thank you very much,
 [Intelygenz](http://www.intelygenz.com/en/)

@@ -18,14 +18,13 @@ iris.screen(function(self) {
 		});
 
 		self.get("text-filter").on("keyup", function (e) {
-			var $textFilter = self.get("text-filter");
-			console.log("TODO Filter by text = " + $textFilter.val());
+			console.log("TODO Filter items by text typed in the search text input.");
 		});
 
 		self.get("clear-completed").on("click", todos.removeCompleted);
 
 		self.get("show-only-important").on("change", function (e) {
-			console.log('TODO show only todos with text "important". The URL should change like filter does in self.awake function')
+			console.log('TODO Show only todos with text "important". The Hash-URL should change like filter does in `self.awake` function.')
 		});
 
 		// Resource events
