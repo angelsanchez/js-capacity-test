@@ -17,10 +17,10 @@ Application designed to prove a javascript developer capacities. We are using an
 There are three new funcionalities to develop:
 
 `public/app/todo.js`
- - lin. 59: If the item text contains the word "important", add the class "important". __(1 point)__
+ - lin. 59: If the item text contains the word "important", "urgent", "express", "immediate" or "imperative" (not case sensitive), add the class "important" __(1 point)__
 
 `public/app/welcome.js`
- - lin. 20: Filter items by text typed in the search text input. __(5 points)__
+ - lin. 20: Filter items by text typed in the search text input. (not case sensitive) __(5 points)__
 
 `public/app/resource.js`
  - lin. 119: Important counter. This counter shows the current number of important todos. __(4 points)__

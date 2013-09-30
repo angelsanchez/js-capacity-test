@@ -57,7 +57,7 @@ iris.ui(function (self) {
 		self.inflate({todo: todo});
 
 		//
-		// TODO If the item text contains the word "important", add the class "important"
+		// TODO If the item text contains the word "important", "urgent", "express", "immediate" or "imperative" (not case sensitive), add the class "important"
 		//
 
 		return self;
