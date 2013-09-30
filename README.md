@@ -32,7 +32,7 @@ There are three new funcionalities to develop:
  - Comments and maintainability of the code will be appreciated.
  - In order to complete the unfinished parts, you can modify any file, write new functions, create new files, etc...
  - You can submit the test solved without completing all the parts.
-
+ - A modern web browser. The latest version of Chrome, Safari and Firefox. IE9 and greater should work, IE8 does not.
 
 Thank you very much,
 [Intelygenz](http://www.intelygenz.com/en/)
