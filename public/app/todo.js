@@ -56,7 +56,9 @@ iris.ui(function (self) {
 		self.get().toggleClass("completed", todo.completed);
 		self.inflate({todo: todo});
 
-		console.log('TODO If the item text contains the word "important", add the class "important"');
+		//
+		// TODO If the item text contains the word "important", add the class "important"
+		//
 
 		return self;
 	};

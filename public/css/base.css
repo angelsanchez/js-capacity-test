@@ -425,5 +425,5 @@ label[for='toggle-all'] {
 }
 
 .filterPanel input[type=text] {
-	border: 1px solid #666;line-height: 20px;
+	border: 1px solid #666;line-height: 20px;width: 390px;
 }

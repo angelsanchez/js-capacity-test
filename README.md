@@ -9,7 +9,7 @@ Application designed to prove a javascript developer capacities. We are using an
 - Install NodeJS dependencies: `npm install`
 - Launch the server: `node app.js`
 - Access in your web browser (Google Chrome recommended) to `http://localhost:3000`
-- Try to complete all unfinished parts
+- Try to complete all unfinished parts (you can modify any file, write new functions, create new files, etc...)
 - Send the solved project to `rrhh@intelygenz.com`
 
 ## Unfinished parts
@@ -17,22 +17,19 @@ Application designed to prove a javascript developer capacities. We are using an
 There are three new funcionalities to develop:
 
 `public/app/todo.js`
- - lin. 59: If the item text contains the word "important", add the class "important". __(Easy: 1 point)__
+ - lin. 59: If the item text contains the word "important", add the class "important". __(1 point)__
 
 `public/app/welcome.js`
- - lin. 22: Filter items by text typed in the search text input. __(Medium: 2 point)__
- - lin. 28: Show only todos with text "important". The Hash-URL should change like filter does in `self.awake` function. __(Hard: 4 point)__
+ - lin. 20: Filter items by text typed in the search text input. __(5 points)__
 
 `public/app/resource.js`
- - lin. 119: Important counter. __(Medium: 3 point)__
+ - lin. 119: Important counter. This counter shows the current number of important todos. __(4 points)__
 
 ## Notes
 
  - Only your code is important, the design won't be valued.
  - Comments and maintainability of the code will be appreciated.
- - In order to complete the unfinished parts, you can modify any file, write new functions, create new files, etc...
- - You can submit the test solved without completing all the parts.
- - A modern web browser. The latest version of Chrome, Safari and Firefox. IE9 and greater should work, IE8 does not.
+ - A modern web browser is required. The latest version of Chrome, Safari and Firefox. IE9 and greater should work, IE8 does not.
 
 Thank you very much,
 [Intelygenz](http://www.intelygenz.com/en/)
